@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f504eff-74c8-43b7-8557-bfc71bf97afe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/question/Difficulty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/question/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/question/Topic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/quiz/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/response/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dao/DaoQuestionTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f504eff-74c8-43b7-8557-bfc71bf97afe" name="Changes" comment="CoreAssesment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +133,13 @@
       <option name="presentableId" value="Default" />
       <updated>1666862323539</updated>
     </task>
+    <task id="LOCAL−00001" summary="CoreAssesment">
+      <created>1667145930084</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1667145930084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -164,11 +156,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CoreAssesment" />
+    <option name="LAST_COMMIT_MESSAGE" value="CoreAssesment" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KNJavaAssesment$DaoQuestionTest_testGettingResponseFromDatabase.ic" NAME="DaoQuestionTest.testGettingResponseFromDatabase Coverage Results" MODIFIED="1667141898831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dao.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/KNJavaAssesment$DaoQuestionTest.ic" NAME="DaoQuestionTest Coverage Results" MODIFIED="1667145575901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/KNJavaAssesment$DaoQuestionTest.ic" NAME="DaoQuestionTest Coverage Results" MODIFIED="1667145820058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dao.*</FILTER>
     </SUITE>
   </component>
